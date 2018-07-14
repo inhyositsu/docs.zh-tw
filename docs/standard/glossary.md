@@ -109,7 +109,7 @@ Just-in-Time 編譯器。
 
 ## <a name="implementation-of-net"></a>.NET 實作
 
-.NET 實作包括：
+一個 .NET 實作包括：
 
 - 一或多個執行階段。 範例：CLR、CoreCLR、CoreRT。
 - 實作 .NET Standard 版本並可能包含其他 API 的類別庫。 範例：.NET Framework 基底類別庫、.NET Core 基底類別庫。
